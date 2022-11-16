@@ -1,2 +1,3 @@
-# colabs
-Colaboratory notebooks
+# Colaboratory notebooks
+
+1- Playing around with NLP (gensim)
