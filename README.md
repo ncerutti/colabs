@@ -1,3 +1,3 @@
 # Colaboratory notebooks
 
-1- Playing around with NLP (gensim)
+- *Gensim_Lovecraft.ipynb*: playing around with NLP
